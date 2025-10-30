@@ -1,7 +1,4 @@
-# Customer Behavior Data Analyst Project
-Data Analytics Project showcasing customer behavior analysis using python ,SQL and power Bi
-
-# 🛍️ Customer Shopping Behaviour Analysis
+# 🛍️ Customer Shopping Behaviour Analysis-Data Analyst Project
 
 ## 📖 Overview
 This project analyzes customer shopping behavior to uncover insights about spending patterns, product preferences, and purchasing habits. It combines **Python (EDA & Cleaning)**, **MySQL (SQL Queries)**, and **Power BI (Visualization)** to create a full end-to-end analytics pipeline, ending with a **Gamma presentation** summarizing findings.
