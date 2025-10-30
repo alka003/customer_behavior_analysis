@@ -228,5 +228,5 @@ Includes:
 **Author:** Alka K S  
 **Role:** Data Analyst Intern  
 **Email:** yourname@email.com  
-**LinkedIn:** [www.linkedin.com/in/alka-k-s](#)
+**LinkedIn:** www.linkedin.com/in/alka-k-s(#)
 
