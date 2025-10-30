@@ -226,7 +226,8 @@ Includes:
 
 ## 📬 Contact
 **Author:** Alka K S  
-**Role:** Data Analyst Intern  
-**Email:** yourname@email.com  
-**LinkedIn:** www.linkedin.com/in/alka-k-s(#)
+**Role:** Data Analyst Intern 
+**Email:** [alkaks3995@gmail.com](mailto:alkaks3995@gmail.com)  
+**LinkedIn:** [www.linkedin.com/in/alka-k-s](https://www.linkedin.com/in/alka-k-s)
+
 
